@@ -12,14 +12,21 @@ You can check demo app from [here](https://expo.io/@canbaz/lets-navigate) and [r
 First, clone the repo and cd to directory:
 
 ```shell
-git clone https://github.com/ibrahimcanbaz/lets-navigate.git && cd lets-navigate
+$ git clone https://github.com/ibrahimcanbaz/lets-navigate.git && cd lets-navigate
 ```
 Then install dependencies:
 ```shell
-npm install
+$ npm install
 ```
 or with yarn:
 ```shell
-yarn install
+$ yarn
+```
+And you also need to have exp installed. Here how you can do it:
+```shell
+$ yarn global add exp
+$ exp register
+$ exp login
+$ exp start --tunnel --dev --exp
 ```
 Then you are ready to go !
