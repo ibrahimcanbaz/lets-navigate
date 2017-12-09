@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View ,SafeAreaView,StatusBar} from 'react-native';
+import { StyleSheet, Text, View ,StatusBar} from 'react-native';
 import Navigation  from './Navigation';
 
 export default class App extends React.Component {
