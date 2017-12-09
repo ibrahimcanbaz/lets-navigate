@@ -5,7 +5,7 @@ const FirstScreen = (props) => (
   <View style={{flex:1}}>
     <Header title={'First Screen'} bgColor={'rgb(142, 68, 173)'} {...props} />
     <View style={styles.container}>
-      <Text onPress={()=>{console.log('LOG',props.navigation)
+      <Text onPress={()=>{
           props.navigation.navigate('Second')}} style={styles.text}>First Screen</Text>
     </View>
   </View>
