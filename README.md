@@ -22,7 +22,7 @@ or with yarn:
 ```shell
 $ yarn
 ```
-And you also need to have `exp installed. Here how you can do it:
+And you also need to have `exp` installed. Here how you can do it:
 ```shell
 $ yarn global add exp
 $ exp register
