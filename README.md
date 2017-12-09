@@ -9,10 +9,10 @@ You can check demo app from [here](https://expo.io/@canbaz/lets-navigate) and [r
 
 ## How to use it ? 
 
-First, clone the repo:
+First, clone the repo and cd to directory:
 
 ```shell
-git clone https://github.com/ibrahimcanbaz/lets-navigate.git
+git clone https://github.com/ibrahimcanbaz/lets-navigate.git && cd lets-navigate
 ```
 Then install dependencies:
 ```shell
