@@ -1,5 +1,5 @@
 # React Navigation Tutorial
-This is sample code repo for react navigation tutorial for react native platform. You can also use it as boiler plate code for your application. Its pretty basic not advanced tutorial ,you can understand even you are beginner.
+This is sample code repo for react navigation tutorial for react native platform. You can also use it as boiler plate code for your application. Its pretty basic not advanced tutorial ,you can understand even if you are a beginner.
 
 You can check demo app from [here](https://expo.io/@canbaz/lets-navigate) and [related tutorial post](https://medium.com/@ibrahimcanbaz/f7bb8686fa0c)
 
